@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nhan Nguyen and I am aspiring to be a software engineer! I am learning software engineering and full-stack development, and hope to expand into AI. I will populate this place with more projects in the future, and I hope you enjoy what I make! <br>
+Hi, I'm Nhan Nguyen and I am aspiring to be a software engineer! I am learning machine learning and full-stack development, and hope to deepen my knowledge into AI. I will populate this place with more projects in the future, and I hope you enjoy what I make! <br>
 
 
 ## 🌐 Socials:
